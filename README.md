@@ -1,16 +1,17 @@
-### Hi there 👋
+### Sundaravel (codesundar)
 
-<!--
-**codesundar/codesundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience:
 
-Here are some ideas to get you started:
+- 🤖 6 years of experience with Web & Mobile development.
+- 🎤 Delivered talk in GDG Madurai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Location:
+
+- Lives in India 🇮🇳
+- Visited Singapore🇸🇬, Indonesia🇮🇩
+
+### Tech Skills:
+
+- **FrontEnd:** Angular, React, Flutter, Ionic
+- **Backend**: Node & MongoDB
+- **Other Services**: Firebase, Payments, SMS/Email API, Maps API
